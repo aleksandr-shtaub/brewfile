@@ -1,6 +1,4 @@
-tap "homebrew/core"
 tap "homebrew/bundle"
-tap "homebrew/cask"
 tap "homebrew/cask-fonts"
 tap "buo/cask-upgrade"
 
@@ -15,6 +13,8 @@ brew "bat"
 brew "neovim"
 brew "git-delta"
 brew "gh"
+brew "direnv"
+brew "pyenv"
 
 cask "keepassxc"
 cask "kitty"
